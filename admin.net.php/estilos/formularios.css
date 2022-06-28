@@ -1,0 +1,78 @@
+#main-container {
+    margin: 100px auto;
+    width: 800px;
+}
+
+table {
+    background-color: white;
+    text-align: left;
+    width: 115%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+th {
+    background-color: #244163;
+    border-bottom: solid 5px #0f2136;
+    color: white;
+}
+
+tr:hover {
+    background-color: #366396;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    color: rgb(78, 75, 75);
+    letter-spacing: .5px;
+    font-size: 1rem;
+}
+
+.btn1 {
+    padding: 5px 15px;
+    font-size: 16px;
+    border-radius: 5px black;
+    color: white;
+    cursor: pointer;
+    background: rgb(24, 112, 191);
+}
+
+.btn2 {
+    padding: 5px 15px;
+    font-size: 16px;
+    border-radius: 5px black;
+    color: white;
+    cursor: pointer;
+    background: rgb(182, 37, 37);
+}
+
+.btn3 {
+    padding: 5px 15px;
+    font-size: 16px;
+    border-radius: 5px black;
+    color: white;
+    cursor: pointer;
+    background: rgb(242, 199, 11);
+}
+
+.btn4 {
+    padding: 5px 15px;
+    font-size: 16px;
+    border-radius: 5px black;
+    color: white;
+    cursor: pointer;
+    background: rgb(110, 209, 18);
+}
